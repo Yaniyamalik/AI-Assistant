@@ -11,10 +11,10 @@ import os
 
 recognizer = sr.Recognizer()
 engine = pyttsx3.init()
-newsapi = "46dfe6c88a5f4259945eaeddcffb7c9d"
+newsapi = ""
 
 
-API_KEY = "AIzaSyBLJtpBQ0nPIz3QR1k_ihYr5hlji8cxgnU"
+API_KEY = ""
 genai.configure(api_key=API_KEY)
 model = genai.GenerativeModel("gemini-1.5-flash")
 
