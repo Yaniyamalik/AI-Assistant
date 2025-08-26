@@ -29,12 +29,12 @@ It can open applications, fetch the latest news, play your favorite songs, and e
 
 ##Example Commands
 
-"Open Chrome"
+"Open Youtube"
 
-"Play music"
+"Play baby"
 
 "What's the latest news?"
 
 "Who is Elon Musk?"
 
-"Search Python tutorials"
+"Get news"
